@@ -18,7 +18,7 @@ to talk to the ESP8266,
 using serial communications,
 via a USB-serial adapter.
 
-### ESP8266 Pin Layout and Usage
+### ESP8266 Pin Layout and usage
 
 For my module (ESP-01), with the pins front and centre, the pin assignments are as follows:
 
